@@ -85,6 +85,18 @@ _Explain that we have two input and mention that first the acceleration sequence
 
 ## Results:
 
+| Model    | Location | Accuracy | ROC   |
+|----------|----------|----------|-------|
+| CNN      | Pocket   | 96.31    | 99.73 |
+| LSTM     | Pocket   | 95.20    | 99.56 |
+| CNN-LSTM | Pocket   | 96.23    | 99.68 |
+| CNN      | Hand     | 91.77    | 98.99 |
+| LSTM     | Hand     | 90.16    | 98.33 |
+| CNN-LSTM | Hand     | 91.26    | 98.73 |
+| CNN      | Backpack |          |       |
+| LSTM     | Backpack | 92.19    | 98.65 |
+| CNN-LSTM | Backpack | 93.31    | 98.95 |
+
 _After writing the modelling section finish this section. Use ROC and accuracy. Use a table to show the results._
 
 Base model : 93% accuracy
