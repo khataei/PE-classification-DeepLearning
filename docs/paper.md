@@ -93,7 +93,7 @@ _Explain that we have two input and mention that first the acceleration sequence
 | CNN      | Hand     | 91.77    | 98.99 |
 | LSTM     | Hand     | 90.16    | 98.33 |
 | CNN-LSTM | Hand     | 91.26    | 98.73 |
-| CNN      | Backpack |          |       |
+| CNN      | Backpack | 93.19    | 99.17 |
 | LSTM     | Backpack | 92.19    | 98.65 |
 | CNN-LSTM | Backpack | 93.31    | 98.95 |
 
