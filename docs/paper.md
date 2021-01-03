@@ -54,19 +54,10 @@ Several model were designed to classify activity levels. Some of these models us
 
 _Then mention each model specification. Can be in one single table. Ask which of the models should be in the final version of the paper._
 
-**Base model:**
 
-We started with a simple convectional neural network, CNN,. It has a one dimensional convectional layer and one dense layer followed by a dropout layer. Table X.X has the model specifications:
 
-Number of convectional kernels, n\_conv = 512
-
-kernel length: k\_conv = 3
-
-256 neurons in the dense layers
-
-dropout rate 0.2
-
-**CNN large model:**
+**CNN model:**
+![CNN Model Structure](https://github.com/khataei/PE-classification-DeepLearning/blob/master/CNN-model.png)
 
 _Double check the performance of the models and hyperparameter tuning notebook. Select the best one and mentioned here._
 
