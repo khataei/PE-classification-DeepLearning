@@ -57,11 +57,16 @@ _Then mention each model specification. Can be in one single table. Ask which of
 
 
 **CNN model:**
+
+
 ![CNN Model Structure](https://github.com/khataei/PE-classification-DeepLearning/blob/master/CNN-model.png)
 
 _Double check the performance of the models and hyperparameter tuning notebook. Select the best one and mentioned here._
 
 **LSTM model:**
+
+![LSTM Model Structure](https://github.com/khataei/PE-classification-DeepLearning/blob/master/LSTM-model.png)
+
 
 _Same as above_
 
