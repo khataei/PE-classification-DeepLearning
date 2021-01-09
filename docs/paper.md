@@ -73,8 +73,13 @@ _Same as above_
 **CNN and LSTM combination:**
 
 _same as above_
+![LSTM Model Structure](https://github.com/khataei/PE-classification-DeepLearning/blob/master/CNN-LSTM-model.png)
+
 
 **Demographic and CNN model:**
+![LSTM Model Structure](https://github.com/khataei/PE-classification-DeepLearning/blob/master/Demographic-Accel-CNN-model.png)
+
+
 
 _Explain that we have two input and mention that first the acceleration sequence data is feed to a convectional layer and then the result is added to demographic data and all of them will be fed to a dense later._
 
