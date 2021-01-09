@@ -92,6 +92,8 @@ _Explain that we have two input and mention that first the acceleration sequence
 | CNN      | Backpack | 93.19    | 99.17 |
 | LSTM     | Backpack | 92.19    | 98.65 |
 | CNN-LSTM | Backpack | 93.31    | 98.95 |
+| CNN-Demographic | Pocket | 97.581    | 99.87 |
+
 
 _After writing the modelling section finish this section. Use ROC and accuracy. Use a table to show the results._
 
